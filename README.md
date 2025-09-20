@@ -24,7 +24,7 @@ A comprehensive car dealership script for FiveM servers using the ESX framework.
 1. **Download** the resource and place it in your `resources` folder
 2. **Add** the resource to your `server.cfg`:
    ```
-   start car_deal
+   ensure car_deal
    ```
 3. **Configure** the script by editing `config.lua`
 4. **Restart** your server
